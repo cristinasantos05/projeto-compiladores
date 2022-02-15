@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://ik.imagekit.io/vq8k3rzgzxi/cs__gHTCk0eX8.png?updatedAt=1639340557336">
+<img src="https://ik.imagekit.io/vq8k3rzgzxi/cs__gHTCk0eX8.png?updatedAt=1639340557336" width='250px'>
 </h1>
 
 # Linguagem CS+ 💻
